@@ -1,0 +1,17 @@
+body, html{
+    margin: 0;
+    height: 100%;
+}
+
+.background{
+    background-image: url("../images/grassfield.png");
+    height: 100%;
+    background-repeat:repeat;
+    
+}
+
+#puppy{            	
+    visibility: hidden;
+    height: 60;
+    width: 97;
+}
